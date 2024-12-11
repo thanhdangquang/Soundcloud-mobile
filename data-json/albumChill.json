@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "name": "Techno Chill",
+      "image": "https://i1.sndcdn.com/artworks-VmtHuW3yCJveviNG-DwzqHw-t500x500.jpg",
+      "genre": "chill",
+      "songs": [
+        {
+          "idSong": 1,
+          "image": "https://i1.sndcdn.com/artworks-nzMLyi0owcfJUzQz-sAzhVw-t500x500.jpg",
+          "artist_nameSong": "Rebuke, Anyma - Syren",
+          "category": "Sweet & Sour"
+        },
+        {
+          "idSong": 2,
+          "image": "https://i1.sndcdn.com/artworks-Yq15f6WLvKyqWI9s-4vFjpQ-t500x500.jpg",
+          "artist_nameSong": "Autograf & Burko - Voodoo",
+          "category": "Autograf"
+        },
+        {
+          "idSong": 3,
+          "image": "https://i1.sndcdn.com/artworks-jozz2FZqDmCm0pLt-s1zLWg-t500x500.jpg",
+          "artist_nameSong": "Premiere: Layer J - Perception",
+          "category": "Obsessive Progressive"
+        },
+        {
+          "idSong": 4,
+          "image": "https://i1.sndcdn.com/artworks-U5utO3t9SfERBqyl-ztsRyw-t500x500.jpg",
+          "artist_nameSong": "Lila (Original Mix) Exclusive preview",
+          "category": "Keshi"
+        },
+        {
+          "idSong": 5,
+          "image": "https://i1.sndcdn.com/artworks-tdXLYS2EzvXbzibp-pmFWwg-t500x500.jpg",
+          "artist_nameSong": "Gol'man - Na Upitere",
+          "category": "Melodic Deep"
+        },
+        {
+          "idSong": 6,
+          "image": "https://i1.sndcdn.com/artworks-xf3GURBxwHumWrgs-uXy6iw-t500x500.jpg",
+          "artist_nameSong": "Limbo",
+          "category": "Keshi"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "3am browsing",
+      "image": "https://i1.sndcdn.com/artworks-BZP3QXPicezIoaLF-ykDGeg-t500x500.jpg",
+      "genre": "chill",
+      "songs": [
+        {
+          "idSong": 1,
+          "artist_nameSong": "New Song 1",
+          "category": "New Artist 1"
+        },
+        {
+          "idSong": 2,
+          "artist_nameSong": "New Song 2",
+          "category": "New Artist 2"
+        },
+        {
+          "idSong": 3,
+          "artist_nameSong": "New Song 3",
+          "category": "New Artist 3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Indie Chill",
+      "image": "https://i1.sndcdn.com/artworks-7C2fy04scYMmZEy6-a2HEvw-t500x500.jpg",
+      "genre": "chill",
+      "songs": [
+        {
+          "idSong": 1,
+          "artist_nameSong": "New Song 1",
+          "category": "New Artist 1"
+        },
+        {
+          "idSong": 2,
+          "artist_nameSong": "New Song 2",
+          "category": "New Artist 2"
+        },
+        {
+          "idSong": 3,
+          "artist_nameSong": "New Song 3",
+          "category": "New Artist 3"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chill Gaming",
+      "image": "https://i1.sndcdn.com/artworks-AZMswmtKVoTsLNfL-6SwB5w-t500x500.jpg",
+      "genre": "chill",
+      "songs": [
+        {
+          "idSong": 1,
+          "artist_nameSong": "New Song 1",
+          "category": "New Artist 1"
+        },
+        {
+          "idSong": 2,
+          "artist_nameSong": "New Song 2",
+          "category": "New Artist 2"
+        },
+        {
+          "idSong": 3,
+          "artist_nameSong": "New Song 3",
+          "category": "New Artist 3"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lowkey House",
+      "image": "https://i1.sndcdn.com/artworks-yyfWXnrCXEzVIyh3-9KR0Ig-t500x500.jpg",
+      "genre": "chill",
+      "songs": [
+        {
+          "idSong": 1,
+          "artist_nameSong": "New Song 1",
+          "category": "New Artist 1"
+        },
+        {
+          "idSong": 2,
+          "artist_nameSong": "New Song 2",
+          "category": "New Artist 2"
+        },
+        {
+          "idSong": 3,
+          "artist_nameSong": "New Song 3",
+          "category": "New Artist 3"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Moonlight Soul",
+      "image": "https://i1.sndcdn.com/artworks-ToxTvSWwRhbRuv9e-pU1zRw-t500x500.jpg",
+      "genre": "chill",
+      "songs": [
+        {
+          "idSong": 1,
+          "artist_nameSong": "New Song 1",
+          "category": "New Artist 1"
+        },
+        {
+          "idSong": 2,
+          "artist_nameSong": "New Song 2",
+          "category": "New Artist 2"
+        },
+        {
+          "idSong": 3,
+          "artist_nameSong": "New Song 3",
+          "category": "New Artist 3"
+        }
+      ]
+    }
+  ]
+  
